@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c0der-ritesh
+- 👋 Hi, I’m @ritesh kumar
 - 👀 I’m interested in Web Development, python,ML and Competative programming.
 - 🌱 I’m currently learning Web Development and Competative programming.
 - 💞️ I’m looking to collaborate on ...
